@@ -1,2 +1,2 @@
 # hybrid-yield-predictor
-report on project titled hybrid yield predictor
+report on project hybrid yield predictor
